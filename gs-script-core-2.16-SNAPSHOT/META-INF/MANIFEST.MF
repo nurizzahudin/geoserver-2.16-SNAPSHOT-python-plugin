@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Application-Name: 
+Implementation-Title: Core Scripting Extension
+Implementation-Version: 2.16-SNAPSHOT
+Build-Timestamp: 01-Jan-2020 19:09
+Archiver-Version: Plexus Archiver
+Built-By: ubuntu
+Specification-Vendor: Open Source Geospatial Foundation
+Specification-Title: Core Scripting Extension
+Implementation-Vendor-Id: org.geoserver.script
+GeoServerModule: community
+Project-Version: 2.16-SNAPSHOT
+Implementation-Vendor: Open Source Geospatial Foundation
+Iteration-Name: 
+Git-Revision: 9a14619a278f2e3f30431005e6cdf2fe590dd352
+Created-By: Apache Maven 3.6.0
+Build-Jdk: 1.8.0_212
+Specification-Version: 2.16-SNAPSHOT
+
